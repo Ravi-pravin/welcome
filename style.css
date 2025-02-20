@@ -213,7 +213,7 @@ footer {
         padding-left: 0rem;
     }
     .welcomeImgBox img{
-        height: 50rem;
+        height: 40rem;
     }
     .welcomeContentBlock{
         padding-top: 10rem;
@@ -234,6 +234,9 @@ footer {
         font-size: 1.5rem;
         width: 100%;
         padding-bottom: 2rem;
+        text-align: center;
+    }
+    .welcomeContent{
         text-align: center;
     }
 
