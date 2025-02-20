@@ -236,6 +236,10 @@ footer {
         padding-bottom: 2rem;
         text-align: center;
     }
+    .welcomeContentBox h3{
+        /* background-color: #06661a; */
+        text-align: center;
+    }
     .welcomeContent{
         text-align: center;
     }
