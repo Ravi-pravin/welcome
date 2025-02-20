@@ -1,0 +1,59 @@
+
+.welcomeContainer{
+    /* background-color: aqua; */
+}
+.welcomeSection{
+    /* background-color: aqua; */
+}
+.welcomeBody{
+    /* background-color: aqua; */
+}
+.welcomeImgBlock{
+    /* background-color: #0c5050; */
+}
+.welcomeImgBox{
+    /* background-color: #33ff00; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.welcomeImgBox img{
+    /* background-color: #ff00ea; */
+    height: 50rem;
+}
+.welcomeContentBlock{
+    /* background-color: #3E4359; */
+}
+.welcomeContentBox{
+    /* background-color: #fff700; */
+    margin-left: 7rem;
+    flex-direction: column;
+}
+.welcomHeading{
+    /* background-color: #26ff00; */
+    font-family: var(--ffPrimary);
+    font-size: 2rem;
+    margin-bottom: 2rem;
+   /* margin-left: 20rem; */
+    width: 100%;
+}
+.welcomeContentBox h3{
+    /* background-color: #06661a; */
+    font-family: var(--ffPrimary);
+    font-size: 3.4rem;
+    margin-bottom: 3rem;
+    font-weight: 400;
+    color: #F60606;
+}
+.welcomeContent{
+    /* background-color: #dc3874; */
+    font-family: var(--ffSecondary);
+    font-size: 1.7rem;
+    color: #3E4359;
+}
+.welcomeContent::first-letter{
+    initial-letter: 2;
+}
+.welcomeContent span{
+    font-size: 3rem;
+}

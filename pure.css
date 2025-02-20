@@ -1,0 +1,64 @@
+.welcomeContainer{
+    /* background-color: aqua; */
+}
+.welcomeSection{
+    /* background-color: aqua; */
+}
+.welcomeBody{
+    /* background-color: aqua; */
+}
+.welcomeImgBlock{
+    /* background-color: #0c5050; */
+}
+.welcomeImgBox{
+    /* background-color: #33ff00; */
+    padding-left: 8rem;
+}
+.welcomeImgBox img{
+    /* background-color: #ff00ea; */
+    height: 50rem;
+}
+.welcomeContentBlock{
+    /* background-color: #3E4359; */
+}
+.welcomeContentBox{
+    /* background-color: #fff700; */
+    padding-left: 7rem;
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    justify-content: start;
+}
+.welcomHeading{
+    /* background-color: #26ff00; */
+    font-family: var(--ffPrimary);
+    font-size: 2rem;
+    width: 100%;
+    padding-bottom: 2rem;
+}
+.welcomeContentBox h3{
+    /* background-color: #06661a; */
+    text-align: start;
+    width: 70%;
+    font-family: var(--ffPrimary);
+    font-size: 3.4rem;
+    font-weight: 400;
+    color: #F60606;
+    padding-bottom: 3rem;
+}
+.welcomeContent{
+    /* background-color: #dc3874; */
+    font-family: var(--ffSecondary);
+    font-size: 1.7rem;
+    color: #3E4359;
+    text-align: start;
+    line-height: 3rem;
+}
+.welcomeContent::first-letter{
+    /* background-color: aliceblue; */
+    initial-letter: 2;
+    padding-right: 1rem;
+}
+.welcomeContent span{
+    /* background-color: aquamarine; */
+}
